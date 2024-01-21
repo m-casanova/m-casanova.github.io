@@ -1,4 +1,4 @@
-baseurl = "https://m-casanova.github.io/test/"
+baseurl = "https://m-casanova.github.io/"
 disablePathToLower = false
 languageCode = "it-it"
 title = "Site title"
