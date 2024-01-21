@@ -1,0 +1,13 @@
+    <footer role="contentinfo">
+      <p>Copyright &copy; {{ now.Format "2006" }} {{ .Site.Params.author }} - <a href="{{ "/license/" | absURL }}">License</a> -
+        <span class="credit">Powered by <a target="_blank" href="https://gohugo.io" rel="noopener noreferrer">Hugo</a> and <a target="_blank" href="https://github.com/parsiya/hugo-octopress/" rel="noopener noreferrer">Hugo-Octopress</a> theme.
+      </p>
+    </footer>
+
+    <!-- Add extend_footer.html -->
+    {{ partial "extend_footer.html" . }}
+
+	<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+  </body>
+</html>
