@@ -13,7 +13,7 @@ Una raccolta di informazioni sulla storia del territorio italiano dal 1861.
 
 In primo piano: [Vermiglione](/Vermiglione), [Pass A38](/Pass-A38) e [In die busillis](/In-die-busillis).
 
-<img src="/assets/img/font.svg" width="100%">
+<p class="imm"><img src="/assets/img/font.svg" width="80%"></p>
 
 Elenco completo: [Alma Virgo](/AlmaVirgo) |
 [Andiamo a bruciargli la casa](/AndiamoABruciargliLaCasa) |
