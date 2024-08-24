@@ -31,6 +31,7 @@ div.side h4 { font-size: 16pt; font-weight: 600; margin: 0 }
 
 article { width: 890px; margin: 0 0 0 290px; padding:0; min-height: 300px }
 article p { margin: 5px 10px; padding:0; color: (--b1); }
+.imm { margin: 15px auto }
 
 footer { padding:0; margin:0; width: 100%; background: var(--n3); color: var(--b0) }
 footer > div { padding: 40px 0; margin:0 auto; width: 1180px }
