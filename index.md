@@ -11,7 +11,9 @@ Una raccolta di informazioni sulla storia del territorio italiano dal 1861.
 
 ### Font
 
-In primo piano: [Pass A38](/Pass-A38) e [Vermiglione](/Vermiglione)
+In primo piano: [Vermiglione](/Vermiglione), [Pass A38](/Pass-A38) e [In die busillis](/In-die-busillis).
+
+<img src="/assets/img/font.svg" width="100%">
 
 Elenco completo: [Alma Virgo](/AlmaVirgo) |
 [Andiamo a bruciargli la casa](/AndiamoABruciargliLaCasa) |
