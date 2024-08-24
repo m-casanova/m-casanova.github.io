@@ -3,13 +3,15 @@ layout: default
 title: "m-casanova"
 ---
 
-## [ComunItaliani](/ci)
+## Esperimenti
+
+### [ComunItaliani](/ci)
 
 Una raccolta di informazioni sulla storia del territorio italiano dal 1861.
 
 ### Font
 
-In primo piano: [Pass A38](/Pass-A38) | [Vermiglione](/Vermiglione)
+In primo piano: [Pass A38](/Pass-A38) e [Vermiglione](/Vermiglione)
 
 Elenco completo: [Alma Virgo](/AlmaVirgo) |
 [Andiamo a bruciargli la casa](/AndiamoABruciargliLaCasa) |
