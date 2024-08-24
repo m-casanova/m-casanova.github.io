@@ -1,0 +1,50 @@
+@font-face { font-family:'test'; font-weight: 200 700; src:url("/Pass-A38/font/Pass_A38.woff2") format("woff2-variations"); }
+:root {
+ --b0:#fff; --b1:#332925; --b2:#006644; --b3:#b36b00; --b4:#b32d43;
+ --c0:#003366; --c1:#004080; --c2:#004d99; --c3:#0066cc; --c4:#207ad5; --c5:#4392E0; --c6:#6aaaeb; --c7:#94c4f5; --c8:#bfdfff; --c9:#f2f7fc;
+ --n0:#17324d; --n1:#2f475e; --n2:#455b71; --n3:#5c6f82; --n4:#768594; --n5:#929da9; --n6:#a3adb7; --n7:#c5c7c9; --n8:#d9dadb; --n9:#ebeced;
+}
+html, body { height: 100% }
+body { font-family:'test', sans-serif; font-size:16pt; margin:0; padding:0; background: var(--b0) }
+div { margin:0; padding:0; }
+
+input { font-family:'test', sans-serif; font-size:16pt; margin:0; padding:0; background: var(--b0); border: 0; border-bottom: 1px solid var(--n1) }
+input:focus { outline: none }
+
+a { color: var(--c3) }
+
+header { width: 100%; margin:0; padding:0 }
+header a { color: var(--b0) }
+header a.b { color: var(--b0); text-decoration: none }
+header > div { color: var(--b0); width:100%; }
+header > div.info { background: var(--c2); }
+header > div.titolo { background: var(--c3); }
+header > div > div { width: 1180px; margin: 0px auto; padding:0 }
+header div div p { margin:0; padding:10px; font-size: 12pt }
+header div div h1 { margin:0; padding:20px 10px; font-size: 40px; line-eight: 1em; font-weight: 350; color: var(--b0); }
+
+main { width: 1180px; margin:60px auto 60px; padding:0 }
+
+div.side { width: 249px; margin: 30px 0 0; padding:10px 10px 5px; float:left; border-right:1px solid var(--n7); color: var(--b1); }
+div.side p { font-size: 14pt }
+div.side h4 { font-size: 16pt; font-weight: 600; margin: 0 }
+
+article { width: 890px; margin: 0 0 0 290px; padding:0; min-height: 300px }
+article p { margin: 5px 10px; padding:0; color: (--b1); }
+
+footer { padding:0; margin:0; width: 100%; background: var(--n3); color: var(--b0) }
+footer > div { padding: 40px 0; margin:0 auto; width: 1180px }
+footer p { margin: 0 10px; font-size: 18px }
+footer a { color: var(--b0); font-weight: 450; }
+
+h2 { margin:30px 10px;padding:0; font-size: 32px; line-height: 1em; font-weight: 400; color: var(--c2) }
+h3 { margin:40px 10px 0px; padding: 0; color: var(--c2); font-size: 28px; font-weight: 600; }
+p.info { font-weight: 450; margin: 0 10px; font-size: 18px; color: var(--n2)}
+
+@media only screen and (max-width: 1200px) {
+	header > div > div { width: 100%; }
+	main { width: 100% }
+	article { width: 100%; margin: 0; }
+	footer > div { width: 100% }
+	div.side { display: none }
+}
