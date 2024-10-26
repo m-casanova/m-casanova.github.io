@@ -15,24 +15,25 @@ In primo piano: [Vermiglione](/Vermiglione), [Pass A38](/Pass-A38) e [In die bus
 
 <p class="imm"><img src="/assets/img/font.svg" width="80%"></p>
 
-Elenco completo: [Alma Virgo](/AlmaVirgo) |
-[Andiamo a bruciargli la casa](/AndiamoABruciargliLaCasa) |
+* __Medievalia__: [Andiamo a bruciargli la casa](/AndiamoABruciargliLaCasa) |
+[In die busillis](/In-die-busillis) |
+[Spranga Longobarda](/SprangaLongobarda)
+* __Capolettera__: [Alma Virgo](/AlmaVirgo) |
+[Cane Nero](/CaneNero) |
 [Capo 1880](/Capo1880) |
 [Capo Cresci](/CapoCresci) |
 [Capo Lombardo](/CapoLombardo) |
 [Capo Verso](/CapoVerso) |
 [Capolinea](/Capolinea) |
-[DisSenso](/DisSenso) |
 [Hoc Opus](/HocOpus) |
-[Ici Gist](/IciGist) |
-[In die busillis](/In-die-busillis) |
+[Ici Gist](/IciGist)
+* __Ottocenteschi__: [DisSenso](/DisSenso) |
 [Infido](/Infido) |
-[Pass A38](/Pass-A38) |
-[PreTesto](/PreTesto) |
-[Spranga Longobarda](/SprangaLongobarda) |
-[Titoli Di Testa](/titoliDiTesta) |
-[Vermiglione](/Vermiglione) |
 [Vitin](/Vitin) |
-[Vulnus](/Vulnus) |
-[Ziffera veneta](/Ziffera-veneta)
-
+[Vulnus](/Vulnus)
+* __Sans Serif__: [Multa Pecunia](/MultaPecunia) |
+[Pass A38](/Pass-A38) |
+[Titoli Di Testa](/titoliDiTesta)
+* __Serif__: [PreTesto](/PreTesto) |
+[Vermiglione](/Vermiglione)
+* __Esperimenti__: [Ziffera veneta](/Ziffera-veneta)
