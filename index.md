@@ -23,6 +23,7 @@ In primo piano: [Vermiglione](/Vermiglione), [Pass A38](/Pass-A38) e [In die bus
 [Capo 1880](/Capo1880) |
 [Capo Corale](/CapoCorale) |
 [Capo Cresci](/CapoCresci) |
+[Capo Ecclesia](/CapoEcclesia) |
 [Capo Lombardo](/CapoLombardo) |
 [Capo Verso](/CapoVerso) |
 [Capolinea](/Capolinea) |
