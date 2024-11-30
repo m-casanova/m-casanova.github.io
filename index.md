@@ -22,6 +22,7 @@ In primo piano: [Vermiglione](/Vermiglione), [Pass A38](/Pass-A38) e [In die bus
 * __Capolettera__: [Alma Virgo](/AlmaVirgo) |
 [Cane Nero](/CaneNero) |
 [Capo 1880](/Capo1880) |
+[Capo Bicolore](/CapoBicolore) |
 [Capo Corale](/CapoCorale) |
 [Capo Cresci](/CapoCresci) |
 [Capo Ecclesia](/CapoEcclesia) |
