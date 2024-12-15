@@ -40,6 +40,7 @@ In primo piano: [Vermiglione](/Vermiglione), [Pass A38](/Pass-A38) e [In die bus
 [Pass A38](/Pass-A38) |
 [Publica Ignominia](/PublicaIgnominia) |
 [Titoli Di Testa](/titoliDiTesta)
-* __Serif__: [PreTesto](/PreTesto) |
+* __Serif__: [Ictu Oculi](/IctuOculi) |
+[PreTesto](/PreTesto) |
 [Vermiglione](/Vermiglione)
 * __Esperimenti__: [Ziffera veneta](/Ziffera-veneta)
