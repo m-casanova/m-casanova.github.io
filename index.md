@@ -36,7 +36,8 @@ In primo piano: [Vermiglione](/Vermiglione), [Pass A38](/Pass-A38) e [In die bus
 [Infido](/Infido) |
 [Vitin](/Vitin) |
 [Vulnus](/Vulnus)
-* __Sans Serif__: [Multa Pecunia](/MultaPecunia) |
+* __Sans Serif__: [Garamontio Sans](/GaramontioSans) |
+[Multa Pecunia](/MultaPecunia) |
 [Pass A38](/Pass-A38) |
 [Publica Ignominia](/PublicaIgnominia) |
 [Titoli Di Testa](/titoliDiTesta)
