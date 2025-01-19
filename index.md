@@ -31,7 +31,8 @@ In primo piano: [Vermiglione](/Vermiglione), [Pass A38](/Pass-A38) e [In die bus
 [Capo Verso](/CapoVerso) |
 [Capolinea](/Capolinea) |
 [Hoc Opus](/HocOpus) |
-[Ici Gist](/IciGist)
+[Ici Gist](/IciGist) |
+[Pass A38 Capo](/PassA38Capo)
 * __Ottocenteschi__: [DisSenso](/DisSenso) |
 [Infido](/Infido) |
 [Vitin](/Vitin) |
