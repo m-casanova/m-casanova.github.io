@@ -38,11 +38,14 @@ In primo piano: [Vermiglione](/Vermiglione), [Pass A38](/Pass-A38) e [In die bus
 [Vitin](/Vitin) |
 [Vulnus](/Vulnus)
 * __Sans Serif__: [Garamontio Sans](/GaramontioSans) |
+[Leggibilmente](/Leggibilmente) |
 [Multa Pecunia](/MultaPecunia) |
 [Pass A38](/Pass-A38) |
 [Publica Ignominia](/PublicaIgnominia) |
 [Titoli Di Testa](/titoliDiTesta)
-* __Serif__: [Garamontio](/Garamontio) |
+* __Serif__: [Diga](/Diga) |
+[Garamontio](/Garamontio) |
+[Grazie mille](/GrazieMille) |
 [Ictu Oculi](/IctuOculi) |
 [PreTesto](/PreTesto) |
 [Vermiglione](/Vermiglione)
