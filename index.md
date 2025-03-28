@@ -48,5 +48,6 @@ In primo piano: [Vermiglione](/Vermiglione), [Pass A38](/Pass-A38) e [In die bus
 [Grazie mille](/GrazieMille) |
 [Ictu Oculi](/IctuOculi) |
 [PreTesto](/PreTesto) |
+[Testuale](/Testuale) |
 [Vermiglione](/Vermiglione)
 * __Esperimenti__: [Ziffera veneta](/Ziffera-veneta)
