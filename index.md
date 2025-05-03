@@ -30,6 +30,7 @@ In primo piano: [Vermiglione](/Vermiglione), [Pass A38](/Pass-A38) e [In die bus
 [Capo Nodi](/CapoNodi) |
 [Capo Verso](/CapoVerso) |
 [Capolinea](/Capolinea) |
+[Garamontio Capo](/GaramontioCapo) |
 [Hoc Opus](/HocOpus) |
 [Ici Gist](/IciGist) |
 [Pass A38 Capo](/PassA38Capo)
