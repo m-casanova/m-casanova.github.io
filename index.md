@@ -29,6 +29,7 @@ In primo piano: [Vermiglione](/Vermiglione), [Pass A38](/Pass-A38) e [In die bus
 [Capo Ecclesia](/CapoEcclesia) |
 [Capo Lombardo](/CapoLombardo) |
 [Capo Nodi](/CapoNodi) |
+[Capo Rose](/CapoRose) |
 [Capo Verso](/CapoVerso) |
 [Capolinea](/Capolinea) |
 [Garamontio Capo](/GaramontioCapo) |
